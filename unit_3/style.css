@@ -3,11 +3,11 @@ body{
 }
 h1{
 	color: #3b3838;
-	font:georgia,serif;
+	font-family:"georgia",serif;
 }
 #slogan{
 	font-style: italic;
 }
 p{
-	font:georgia,serif;
+	font-family:"georgia",serif;
 }
