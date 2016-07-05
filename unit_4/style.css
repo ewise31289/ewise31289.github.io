@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
+
+body{
+	background-color: #ccc4c4;
+}
+h1{
+	color: #3b3838;
+    font-family: 'Playfair Display', serif;
+}
+
+#slogan{
+	font-style: italic;
+	font-family: 'Playfair Display', serif;
+}
+
+li{
+	font-family: 'Quattrocento Sans', sans-serif;
+p{
+	font-family: 'Quattrocento Sans', sans-serif;
+}
+a{
+	font-family: 'Quattrocento Sans', sans-serif;
+	color: #3b3838;
+}
+hr{
+	color:#3b3838;
+}
