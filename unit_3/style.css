@@ -12,8 +12,10 @@ h1{
 #slogan{
 	font-style: italic;
 	font-family: 'Playfair Display', serif;
-
 }
+
+li{
+	font-family: 'Quattrocento Sans', sans-serif;
 p{
 	font-family: 'Quattrocento Sans', sans-serif;
 }
