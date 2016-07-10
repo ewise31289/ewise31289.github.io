@@ -30,7 +30,6 @@ h1{
 body{
 	background-color: #ccc4c4;
 	text-align: center;
-
 }
 
 #slogan{
@@ -48,6 +47,8 @@ body{
 ul{
 	font-family: 'Quattrocento Sans', sans-serif;
 	list-style: none;
+	}
+	
 p {
 	font-family: 'Quattrocento Sans', sans-serif;
 }
