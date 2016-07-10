@@ -9,6 +9,11 @@ header{
     border: 1px black solid;
     padding: 20px;
 }
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
 
 h1{
 	color: #3b3838;
