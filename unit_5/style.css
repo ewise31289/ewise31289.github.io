@@ -29,6 +29,8 @@ h1{
 
 body{
 	background-color: #ccc4c4;
+	text-align: center;
+
 }
 
 #slogan{
@@ -40,7 +42,6 @@ body{
 }
 
 #wrapper{
-	text-align: center;
 	margin: 0px auto;
 }
 
