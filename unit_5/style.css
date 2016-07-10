@@ -1,10 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 @import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
 
-body{
-	background-color: #ccc4c4;
-	text-align: center;
-}
 header{
 	background-color: #FFED74;
     border: 1px black solid;
@@ -39,12 +35,19 @@ h1{
 	list-style: none
 }
 
+#wrapper{
+	background-color: #ccc4c4;
+	text-align: center;
+	margin:0 auto;
+}
+
 ul{
 	font-family: 'Quattrocento Sans', sans-serif;
 	list-style: none;
-p{
+p {
 	font-family: 'Quattrocento Sans', sans-serif;
 }
+
 a{
 	font-family: 'Quattrocento Sans', sans-serif;
 	color: #3b3838;
