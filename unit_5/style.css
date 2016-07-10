@@ -4,6 +4,12 @@
 body{
 	background-color: #ccc4c4;
 }
+header{
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 h1{
 	color: #3b3838;
     font-family: 'Playfair Display', serif;
