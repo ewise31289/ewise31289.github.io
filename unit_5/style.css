@@ -38,13 +38,14 @@ body{
 }
 #nav{
 	list-style: none
+	display:inline;
 }
 
 .wrapper {
 	margin: 0px auto;
 }
 
-.mainimage {
+#mainimage {
 	width:100%;
 }
 
