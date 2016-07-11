@@ -44,6 +44,10 @@ body{
 	margin: 0px auto;
 }
 
+img{
+	width:100% auto;
+}
+
 ul{
 	font-family: 'Quattrocento Sans', sans-serif;
 	list-style: none;
