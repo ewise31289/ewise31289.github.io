@@ -46,7 +46,8 @@ body{
 }
 
 #mainimage {
-	width:100%;
+	width:75%;
+	hieght:auto;
 }
 
 ul{
