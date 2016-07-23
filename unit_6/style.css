@@ -1,26 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
 @import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
 
-header{
-	background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
-}
-nav {
-    background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
-}
-section {
-    background-color: #FFF2B8;
-    border: 1px black solid;
-    padding: 20px;
-}
-footer {
-    background-color: #FF957E;
-    border: 1px black solid;
-    padding: 20px;
-}
 
 h1{
 	color: #3b3838;
