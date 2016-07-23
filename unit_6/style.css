@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
+
+header{
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+section {
+    background-color: #FFF2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1{
+	color: #3b3838;
+    font-family: 'Playfair Display', serif;
+}
+
+body{
+	background-color: #ccc4c4;
+	text-align: center;
+}
+
+#slogan{
+	font-style: italic;
+	font-family: 'Playfair Display', serif;
+}
+#nav{
+	list-style: none
+	display:inline;
+}
+
+.wrapper {
+	margin: 0px auto;
+}
+
+#mainimage {
+	width:75%;
+	hieght:auto;
+}
+
+ul{
+	font-family: 'Quattrocento Sans', sans-serif;
+	list-style: none;
+	}
+
+p {
+	font-family: 'Quattrocento Sans', sans-serif;
+	width: 60%;
+	margin: auto;
+}
+
+a{
+	font-family: 'Quattrocento Sans', sans-serif;
+	color: #3b3838;
+}
+
+hr{
+	color:#3b3838;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding:20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
