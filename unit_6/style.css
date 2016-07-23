@@ -32,13 +32,14 @@ body{
 
 ul{
 	font-family: 'Quattrocento Sans', sans-serif;
-	font-size: 1.2em;
 	list-style: none;
+	font-size: 20px;
 	}
 
 p {
 	font-family: 'Quattrocento Sans', sans-serif;
-	width: 60%;
+	width: 75%;
+	font-size: 20px;
 	margin: auto;
 }
 
@@ -65,6 +66,7 @@ hr{
 	padding: 20px;
 	float: right;
 	width: 45%;
+	list-style: none;
 }
 
 .clearfix:after {
