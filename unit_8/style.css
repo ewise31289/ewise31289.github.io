@@ -10,13 +10,14 @@ h1{
 body{
 	background-color: #ccc4c4;
 	text-align: center;
+	font-size: 16px;
 }
 
 nav{
 	list-style: none;
 	display:inline;
 	font-family: 'Playfair Display', serif;
-	font-size: 24px;
+	font-size: 1.5em;
 }
 
 #mainnav{
@@ -26,7 +27,7 @@ nav{
 #slogan{
 	font-style: italic;
 	font-family: 'Playfair Display', serif;
-	padding-bottom: 25px;
+	padding-bottom: 1.5em;
 }
 
 .services {
@@ -40,14 +41,14 @@ nav{
 
 #mainimage {
 	width:75%;
-	hieght:auto;
+	height:auto;
 }
 
 
 p {
 	font-family: 'Quattrocento Sans', sans-serif;
 	width: 75%;
-	font-size: 20px;
+	font-size: 1.25;
 	margin: auto;
 }
 
