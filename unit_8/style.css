@@ -31,8 +31,9 @@ nav{
 	padding-bottom: 1.5em;
 }
 
-.services {
+#services {
 	list-style: none;
+	display:block;
 }
 
 
