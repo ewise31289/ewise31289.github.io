@@ -41,6 +41,11 @@ nav{
 	height:auto;
 }
 
+.services li{
+	display:block;
+	list-style:none;
+}
+
 
 p {
 	font-family: 'Quattrocento Sans', sans-serif;
@@ -68,11 +73,6 @@ li {
 	margin:5%;
 }
 
-ul .services {
-	list-style: none;
-	display:block;
-	width:100%;
-}
 
 #two_column {
 	padding:20px;
@@ -91,6 +91,7 @@ ul .services {
 	font-family: 'Quattrocento Sans', sans-serif;
 	list-style: none;
 	font-size: 1.25em;
+	display:block;
 }
 
 .clearfix:after {
