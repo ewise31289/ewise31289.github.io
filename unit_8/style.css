@@ -31,11 +31,6 @@ nav{
 	padding-bottom: 1.5em;
 }
 
-#services {
-	list-style: none;
-	display:block;
-}
-
 
 .wrapper {
 	margin: 0px auto;
@@ -73,6 +68,10 @@ li {
 	margin:5%;
 }
 
+.services {
+	list-style: none;
+	display:block;
+}
 
 #two_column {
 	padding:20px;
