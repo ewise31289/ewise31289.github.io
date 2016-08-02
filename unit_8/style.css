@@ -25,11 +25,6 @@ nav{
 	display:inline;
 }
 
-.li {
-	witdth:25%;
-	float: left;
-}
-
 #slogan{
 	font-style: italic;
 	font-family: 'Playfair Display', serif;
@@ -73,6 +68,10 @@ ul {
 	width: 100%;
 }
 
+.li {
+	display:inline;
+	margin:15%;
+}
 
 
 #two_column {
