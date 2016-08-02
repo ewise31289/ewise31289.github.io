@@ -68,9 +68,10 @@ li {
 	margin:5%;
 }
 
-.services {
+ul .services {
 	list-style: none;
 	display:block;
+	width:100%;
 }
 
 #two_column {
