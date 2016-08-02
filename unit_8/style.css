@@ -107,7 +107,7 @@ li {
 #right {
 	padding: 20px;
 	float: none;
-	width: 85%;
+	width: 100%;
 	font-family: 'Quattrocento Sans', sans-serif;
 	list-style: none;
 	font-size: 1.25em;
@@ -116,7 +116,7 @@ li {
 #left {
 	padding: 20px;
 	float: none;
-	width: 85%;
+	width: 100%;
 	font-family: 'Quattrocento Sans', sans-serif;
 	list-style: none;
 	font-size: 1.25em;
