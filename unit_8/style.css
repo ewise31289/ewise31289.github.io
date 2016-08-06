@@ -144,12 +144,15 @@ nav {
 	display:block;
 }
 
+ul {
+	width:30%
+	margin:0% 35%;
+}
+
 li {
 	display:block;
 	margin:5%;
 	border:1px solid black;
-	width:30%
-	margin:0% 35%;
 }
 
 .services li{
