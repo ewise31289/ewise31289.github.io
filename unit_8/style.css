@@ -123,6 +123,17 @@ li {
 }
 
 @media only screen and (max-width:568px) {
+#left {
+	padding: 0px;
+	float: none;
+	width: 100%;
+	font-family: 'Quattrocento Sans', sans-serif;
+	list-style: none;
+	font-size: 1.25em;
+	display:block;
+	}
+}
+
 nav { 
 	list-style: none;
 	display:block;
