@@ -133,6 +133,12 @@ nav {
 #mainnav{
 	display:block;
 }
+
+li {
+	display:block;
+	margin:5%;
+}
+
 }
 
 
