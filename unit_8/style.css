@@ -64,6 +64,7 @@ hr{
 
 ul {
 	list-style: none;
+	padding: 0px;
 }
 
 li {
@@ -136,7 +137,7 @@ nav {
 li {
 	display:block;
 	margin:5%;
-	border:1px;
+	border:1px solid black;
 }
 
 }
