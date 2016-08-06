@@ -138,21 +138,18 @@ nav {
 	display:block;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.5em;
+	margin:0px 35%;
 }
 
 #mainnav{
 	display:block;
 }
 
-ul {
-	width:30%
-	margin:0% 35%;
-}
-
 li {
 	display:block;
 	margin:5%;
 	border:1px solid black;
+	width:30%;
 }
 
 .services li{
