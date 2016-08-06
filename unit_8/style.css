@@ -143,6 +143,7 @@ li {
 .services li{
 	display:block;
 	list-style:none;
+	border:none;
 }
 
 }
