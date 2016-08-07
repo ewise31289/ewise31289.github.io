@@ -13,15 +13,16 @@ body{
 	font-size: 16px;
 }
 
-footer {
-	font-family: 'Cardo', sans-serif;
-}
 
 nav{
 	list-style: none;
 	display:inline;
 	font-family: 'Quicksand', sans-serif;
 	font-size: 1.5em;
+}
+
+a:hover {
+	text-decoration-color: midnightblue;
 }
 
 #mainnav{
