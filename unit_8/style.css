@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display);
-@import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
+@import url(https://fonts.googleapis.com/css?family=Cardo);
 
 
 h1{
@@ -47,14 +47,14 @@ nav{
 
 
 p {
-	font-family: 'Quattrocento Sans', sans-serif;
+	font-family: 'Cardo', sans-serif;
 	width: 75%;
 	font-size: 1.25em;
 	margin: auto;
 }
 
 a{
-	font-family: 'Quattrocento Sans', sans-serif;
+	font-family: 'Cardo', sans-serif;
 	color: #3b3838;
 }
 
@@ -86,7 +86,7 @@ li {
 #right {
 	float: right;
 	width: 45%;
-	font-family: 'Quattrocento Sans', sans-serif;
+	font-family: 'Cardo', sans-serif;
 	list-style: none;
 	font-size: 1.25em;
 	display:block;
@@ -106,7 +106,7 @@ li {
 	padding: 20px;
 	float: none;
 	width: 100%;
-	font-family: 'Quattrocento Sans', sans-serif;
+	font-family: 'Cardo', sans-serif;
 	list-style: none;
 	font-size: 1.25em;
 	display:block;
@@ -115,7 +115,7 @@ li {
 	padding: 20px;
 	float: none;
 	width: 100%;
-	font-family: 'Quattrocento Sans', sans-serif;
+	font-family: 'Cardo', sans-serif;
 	list-style: none;
 	font-size: 1.25em;
 	display:block;
@@ -127,7 +127,7 @@ li {
 	padding: 0px;
 	float: none;
 	width: 100%;
-	font-family: 'Quattrocento Sans', sans-serif;
+	font-family: 'Cardo', sans-serif;
 	list-style: none;
 	font-size: 1.25em;
 	display:block;
