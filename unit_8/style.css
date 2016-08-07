@@ -21,7 +21,7 @@ nav{
 	font-size: 1.5em;
 }
 
-a:hover {
+li:hover {
 	text-decoration-color: midnightblue;
 }
 
