@@ -1,10 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Sintony);
+@import url(https://fonts.googleapis.com/css?family=Antic);
 @import url(https://fonts.googleapis.com/css?family=Cardo);
 
 
 h1{
 	color: #3b3838;
-    font-family: 'Sintony', serif;
+    font-family: 'Antic', serif;
 }
 
 body{
@@ -16,7 +16,7 @@ body{
 nav{
 	list-style: none;
 	display:inline;
-	font-family: 'Sintony', serif;
+	font-family: 'Antic', serif;
 	font-size: 1.5em;
 }
 
@@ -26,7 +26,7 @@ nav{
 
 #slogan{
 	font-style: italic;
-	font-family: 'Sintony', serif;
+	font-family: 'Antic', serif;
 	padding-bottom: 1.5em;
 }
 
