@@ -124,7 +124,7 @@ footer {
 @media only screen and (max-width:855px) {
 #two_column { 
 	width:100%;
-	margin: 0px;
+	margin: 0;
 }
 
 #right {
@@ -166,7 +166,6 @@ footer {
 	float: none;
 	width: 100%;
 	font-family: 'Cardo', serif;
-
 	list-style: none;
 	font-size: 1.25em;
 	display:block;
