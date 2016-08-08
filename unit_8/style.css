@@ -1,0 +1,190 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Cardo);
+
+
+h1{
+	color: #3b3838;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body{
+	background-color: #ccc4c4;
+	text-align: center;
+	font-size: 16px;
+}
+
+
+nav{
+	list-style: none;
+	display:inline;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.5em;
+}
+
+
+#mainnav{
+	display:inline;
+}
+
+#slogan{
+	font-style: italic;
+	font-family: 'Quicksand', sans-serif;
+	padding-bottom: 1.5em;
+}
+
+
+.wrapper {
+	margin: 0px auto;
+}
+
+#mainimage {
+	width:75%;
+	height:auto;
+}
+
+.services li{
+	display:block;
+	list-style:none;
+}
+
+
+p {
+	font-family: 'Cardo', sans-serif;
+	width: 75%;
+	font-size: 1.25em;
+	margin: auto;
+}
+
+a{
+	font-family: 'Cardo', sans-serif;
+	color: #3b3838;
+}
+
+hr{
+	color:#3b3838;
+}
+
+ul {
+	list-style: none;
+	padding: 0px;
+}
+
+li {
+	display:inline;
+	margin:5%;
+}
+
+
+#two_column {
+	padding:20px;
+}
+
+#left {
+	padding: 20px;
+	float: left;
+	width: 45%;
+}
+
+#right {
+	float: right;
+	width: 45%;
+	font-family: 'Cardo', serif;
+	list-style: none;
+	font-size: 1.25em;
+	display:block;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+<<<<<<< HEAD
+footer {
+	font-family: 'cardio', serif;
+}
+
+=======
+>>>>>>> origin/master
+@media only screen and (max-width:855px) {
+#right {
+	padding: 20px;
+	float: none;
+	width: 100%;
+<<<<<<< HEAD
+	font-family: 'Cardo', serif;
+=======
+	font-family: 'Quattrocento Sans', sans-serif;
+>>>>>>> origin/master
+	list-style: none;
+	font-size: 1.25em;
+	display:block;
+		}
+#left {
+	padding: 20px;
+	float: none;
+	width: 100%;
+<<<<<<< HEAD
+	font-family: 'Cardo', serif;
+=======
+	font-family: 'Quattrocento Sans', sans-serif;
+>>>>>>> origin/master
+	list-style: none;
+	font-size: 1.25em;
+	display:block;
+	}
+}
+
+@media only screen and (max-width:568px) {
+#left {
+	padding: 0px;
+	float: none;
+	width: 100%;
+<<<<<<< HEAD
+	font-family: 'Cardo', serif;
+=======
+	font-family: 'Quattrocento Sans', sans-serif;
+>>>>>>> origin/master
+	list-style: none;
+	font-size: 1.25em;
+	display:block;
+	}
+
+nav { 
+	list-style: none;
+	display:block;
+<<<<<<< HEAD
+	font-family: 'Quicksand', sans-serif;
+=======
+	font-family: 'Playfair Display', serif;
+>>>>>>> origin/master
+	font-size: 1.5em;
+	margin:0px 35%;
+}
+
+#mainnav{
+	display:block;
+}
+
+li {
+	display:block;
+	margin:5%;
+	border:1px solid black;
+	width:100%;
+}
+
+.services li{
+	display:block;
+	list-style:none;
+	border:none;
+	margin: auto 0px;
+}
+}
+
+
+
+
