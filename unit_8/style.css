@@ -130,7 +130,9 @@ footer {
 #right {
 	padding: 20px 0px;
 	float: none;
-	width: 100%;
+	width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
 	font-family: 'Cardo', serif;
 	list-style: none;
 	font-size: 1.25em;
@@ -140,7 +142,9 @@ footer {
 #left {
 	padding: 20px 0px;
 	float: none;
-	width: 100%;
+	width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
 	font-family: 'Cardo', serif;
 	list-style: none;
 	font-size: 1.25em;
@@ -149,6 +153,7 @@ footer {
 
 	p {
 		width:100%;
+		font-size:1em;
 	}
 }
 
