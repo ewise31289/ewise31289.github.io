@@ -77,6 +77,9 @@ li {
 #boxed {
 	border:2px solid black;
 	text-transform: uppercase;
+	 width: 50%;
+    margin-right: 25%;
+    margin-left: 25%;
 }
 
 #navitem:hover {text-decoration: underline;}
