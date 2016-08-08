@@ -125,6 +125,7 @@ footer {
 #two_column { 
 	width:100%;
 	margin: 0;
+	padding: 0;
 }
 
 #right {
@@ -164,6 +165,8 @@ footer {
 #two_column { 
 	width:100%;
 	margin: 0;
+	padding: 0;
+
 }
 
 #left {
