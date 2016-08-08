@@ -4,7 +4,7 @@
 
 h1{
 	color: #3b3838;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 body{
@@ -72,6 +72,10 @@ ul {
 li {
 	display:inline;
 	margin:5%;
+}
+
+#navitems:hover {
+	text-decoration-color: midnightblue
 }
 
 
