@@ -28,7 +28,7 @@ nav{
 
 #slogan{
 	font-style: italic;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'arial', sans-serif;
 	padding-bottom: 1.5em;
 }
 
@@ -103,16 +103,23 @@ li {
 	height: 0;
 }
 
+<<<<<<< HEAD
 footer {
 	font-family: 'cardio', serif;
 }
 
+=======
+>>>>>>> origin/master
 @media only screen and (max-width:855px) {
 #right {
 	padding: 20px;
 	float: none;
 	width: 100%;
+<<<<<<< HEAD
 	font-family: 'Cardo', serif;
+=======
+	font-family: 'Quattrocento Sans', sans-serif;
+>>>>>>> origin/master
 	list-style: none;
 	font-size: 1.25em;
 	display:block;
@@ -121,7 +128,11 @@ footer {
 	padding: 20px;
 	float: none;
 	width: 100%;
+<<<<<<< HEAD
 	font-family: 'Cardo', serif;
+=======
+	font-family: 'Quattrocento Sans', sans-serif;
+>>>>>>> origin/master
 	list-style: none;
 	font-size: 1.25em;
 	display:block;
@@ -133,7 +144,11 @@ footer {
 	padding: 0px;
 	float: none;
 	width: 100%;
+<<<<<<< HEAD
 	font-family: 'Cardo', serif;
+=======
+	font-family: 'Quattrocento Sans', sans-serif;
+>>>>>>> origin/master
 	list-style: none;
 	font-size: 1.25em;
 	display:block;
@@ -142,7 +157,11 @@ footer {
 nav { 
 	list-style: none;
 	display:block;
+<<<<<<< HEAD
 	font-family: 'Quicksand', sans-serif;
+=======
+	font-family: 'Playfair Display', serif;
+>>>>>>> origin/master
 	font-size: 1.5em;
 	margin:0px 35%;
 }
