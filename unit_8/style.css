@@ -160,7 +160,12 @@ footer {
 	}
 }
 
-@media only screen and (max-width:582px) {
+@media only screen and (max-width:581px) {
+#two_column { 
+	width:100%;
+	margin: 0;
+}
+
 #left {
 	padding: 0px;
 	float: none;
