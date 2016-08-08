@@ -168,7 +168,8 @@ footer {
 
 #left {
 	padding: 0px;
-	float: none;
+	float: none
+	margin:0;
 	width: 80%;
 	font-family: 'Cardo', serif;
 	list-style: none;
