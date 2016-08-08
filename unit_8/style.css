@@ -132,7 +132,7 @@ footer {
 	}
 }
 
-@media only screen and (max-width:568px) {
+@media only screen and (max-width:582px) {
 #left {
 	padding: 0px;
 	float: none;
@@ -162,6 +162,9 @@ li {
 	border:1px solid black;
 	width:100%;
 }
+
+#navitem:hover {text-decoration: none;}
+
 
 .services li{
 	display:block;
