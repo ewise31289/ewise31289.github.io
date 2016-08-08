@@ -79,6 +79,9 @@ li {
 
 #two_column {
 	padding:20px;
+	width:80%;
+	margin-left: 10%
+	margin-right:10%;
 }
 
 #left {
