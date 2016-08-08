@@ -74,6 +74,9 @@ li {
 	margin:5%;
 }
 
+#boxed {
+	border:1px solid black;
+}
 #navitem:hover {text-decoration: underline;}
 
 
