@@ -28,7 +28,11 @@ nav{
 
 #slogan{
 	font-style: italic;
+<<<<<<< HEAD
 	font-family: 'arial', sans-serif;
+=======
+	font-family: 'Quicksand', sans-serif;
+>>>>>>> origin/master
 	padding-bottom: 1.5em;
 }
 
